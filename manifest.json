@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Words of Affirmation",
+    "description": "Daily phrases to think on.",
+    "version": "1.0",
+    "author": "Julia B",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "16": "assets/flower.png",
+        "32": "assets/flower.png",
+        "48": "assets/flower.png",
+        "128": "assets/flower.png"
+    }
+}
