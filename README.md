@@ -1,4 +1,4 @@
-## Daily words of affirmation
+## Affirmations Chrome Extension
 
 ![words](https://github.com/dejmedus/words-of-affirmation/assets/59973863/c5c58118-a2ea-40f3-a12c-b6a639a801d7)
 
