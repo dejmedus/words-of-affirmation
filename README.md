@@ -2,7 +2,9 @@
 
 Phrases to think on in every new Tab!
 
-![words](https://github.com/dejmedus/words-of-affirmation/assets/59973863/c5c58118-a2ea-40f3-a12c-b6a639a801d7)
+<img width="1272" alt="lightmode" src="https://github.com/dejmedus/words-of-affirmation/assets/59973863/f67394f8-5367-4433-ad6f-330c67e35ed9">
+<img width="1264" alt="darkmode" src="https://github.com/dejmedus/words-of-affirmation/assets/59973863/93c9102b-0db9-4a4b-9c91-bfce9b014cc1">
 
-![words-darktheme](https://github.com/dejmedus/words-of-affirmation/assets/59973863/67120bb9-ecdf-4058-987f-e5d831a9cd64)
+
+
 
